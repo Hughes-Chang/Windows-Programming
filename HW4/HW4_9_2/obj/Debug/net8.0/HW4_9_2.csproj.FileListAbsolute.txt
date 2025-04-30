@@ -1,0 +1,14 @@
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\obj\Debug\net8.0\HW4_9_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\obj\Debug\net8.0\HW4_9_2.AssemblyInfoInputs.cache
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\obj\Debug\net8.0\HW4_9_2.AssemblyInfo.cs
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\obj\Debug\net8.0\HW4_9_2.csproj.CoreCompileInputs.cache
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\bin\Debug\net8.0\HW4_9_2.exe
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\bin\Debug\net8.0\HW4_9_2.deps.json
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\bin\Debug\net8.0\HW4_9_2.runtimeconfig.json
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\bin\Debug\net8.0\HW4_9_2.dll
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\bin\Debug\net8.0\HW4_9_2.pdb
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\obj\Debug\net8.0\HW4_9_2.dll
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\obj\Debug\net8.0\refint\HW4_9_2.dll
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\obj\Debug\net8.0\HW4_9_2.pdb
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\obj\Debug\net8.0\HW4_9_2.genruntimeconfig.cache
+C:\Users\d5f2c\source\repos\HW4\HW4_9_2\obj\Debug\net8.0\ref\HW4_9_2.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d5f2c\\source\\repos\\HW4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5738D1-65D9-45EB-9D37-2BB8B6AC573A}|HW4_9_4\\HW4_9_4.csproj|c:\\users\\d5f2c\\source\\repos\\hw4\\hw4_9_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5738D1-65D9-45EB-9D37-2BB8B6AC573A}|HW4_9_4\\HW4_9_4.csproj|solutionrelative:hw4_9_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5738D1-65D9-45EB-9D37-2BB8B6AC573A}|HW4_9_4\\HW4_9_4.csproj|c:\\users\\d5f2c\\source\\repos\\hw4\\hw4_9_4\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5738D1-65D9-45EB-9D37-2BB8B6AC573A}|HW4_9_4\\HW4_9_4.csproj|solutionrelative:hw4_9_4\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5738D1-65D9-45EB-9D37-2BB8B6AC573A}|HW4_9_4\\HW4_9_4.csproj|c:\\users\\d5f2c\\source\\repos\\hw4\\hw4_9_4\\phonelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5738D1-65D9-45EB-9D37-2BB8B6AC573A}|HW4_9_4\\HW4_9_4.csproj|solutionrelative:hw4_9_4\\phonelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cards.cs",
+              "DocumentMoniker": "C:\\Users\\d5f2c\\source\\repos\\HW4\\HW4_9_4\\Cards.cs",
+              "RelativeDocumentMoniker": "HW4_9_4\\Cards.cs",
+              "ToolTip": "C:\\Users\\d5f2c\\source\\repos\\HW4\\HW4_9_4\\Cards.cs",
+              "RelativeToolTip": "HW4_9_4\\Cards.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:44:47.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhoneList.cs",
+              "DocumentMoniker": "C:\\Users\\d5f2c\\source\\repos\\HW4\\HW4_9_4\\PhoneList.cs",
+              "RelativeDocumentMoniker": "HW4_9_4\\PhoneList.cs",
+              "ToolTip": "C:\\Users\\d5f2c\\source\\repos\\HW4\\HW4_9_4\\PhoneList.cs",
+              "RelativeToolTip": "HW4_9_4\\PhoneList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:44:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d5f2c\\source\\repos\\HW4\\HW4_9_4\\Program.cs",
+              "RelativeDocumentMoniker": "HW4_9_4\\Program.cs",
+              "ToolTip": "C:\\Users\\d5f2c\\source\\repos\\HW4\\HW4_9_4\\Program.cs",
+              "RelativeToolTip": "HW4_9_4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:43:42.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
