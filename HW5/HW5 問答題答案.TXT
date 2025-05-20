@@ -1,0 +1,5 @@
+10-6:多型（Polymorphism）
+
+15-4:CreateText;AppendText
+
+15-5:OpenFileDialog 和 SaveFileDialog
