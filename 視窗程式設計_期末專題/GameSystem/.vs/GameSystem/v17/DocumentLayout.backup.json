@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hugh\\source\\repos\\GameSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\dicegameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\dicegameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\rpsgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\rpsgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\AboutForm.cs",
+              "RelativeDocumentMoniker": "GameSystem\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\AboutForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GameSystem\\AboutForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:23:54.245Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\Program.cs",
+              "RelativeDocumentMoniker": "GameSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\Program.cs",
+              "RelativeToolTip": "GameSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:23:09.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\ScoreForm.cs",
+              "RelativeDocumentMoniker": "GameSystem\\ScoreForm.cs",
+              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\ScoreForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GameSystem\\ScoreForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:20:12.753Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RPSGameForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\RPSGameForm.cs",
+              "RelativeDocumentMoniker": "GameSystem\\RPSGameForm.cs",
+              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\RPSGameForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GameSystem\\RPSGameForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:20:07.365Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiceGameForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\DiceGameForm.cs",
+              "RelativeDocumentMoniker": "GameSystem\\DiceGameForm.cs",
+              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\DiceGameForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "GameSystem\\DiceGameForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:19:57.116Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameSystem\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\MainForm.Designer.cs",
+              "RelativeToolTip": "GameSystem\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:17:04.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

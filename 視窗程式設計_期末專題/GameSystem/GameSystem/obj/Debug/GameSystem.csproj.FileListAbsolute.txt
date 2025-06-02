@@ -1,0 +1,10 @@
+C:\Users\hugh\source\repos\GameSystem\GameSystem\bin\Debug\GameSystem.exe.config
+C:\Users\hugh\source\repos\GameSystem\GameSystem\bin\Debug\GameSystem.exe
+C:\Users\hugh\source\repos\GameSystem\GameSystem\bin\Debug\GameSystem.pdb
+C:\Users\hugh\source\repos\GameSystem\GameSystem\obj\Debug\GameSystem.csproj.AssemblyReference.cache
+C:\Users\hugh\source\repos\GameSystem\GameSystem\obj\Debug\GameSystem.Properties.Resources.resources
+C:\Users\hugh\source\repos\GameSystem\GameSystem\obj\Debug\GameSystem.csproj.GenerateResource.cache
+C:\Users\hugh\source\repos\GameSystem\GameSystem\obj\Debug\GameSystem.csproj.CoreCompileInputs.cache
+C:\Users\hugh\source\repos\GameSystem\GameSystem\obj\Debug\GameSystem.exe
+C:\Users\hugh\source\repos\GameSystem\GameSystem\obj\Debug\GameSystem.pdb
+C:\Users\hugh\source\repos\GameSystem\GameSystem\obj\Debug\GameSystem.exe.config
