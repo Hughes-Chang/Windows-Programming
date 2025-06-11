@@ -3,7 +3,6 @@
     partial class MainForm
     {
         private System.ComponentModel.IContainer components = null;
-
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -15,90 +14,130 @@
 
         private void InitializeComponent()
         {
-            this.btnToDice = new System.Windows.Forms.Button();
-            this.btnToRPS = new System.Windows.Forms.Button();
-            this.btnToScore = new System.Windows.Forms.Button();
-            this.btnToAbout = new System.Windows.Forms.Button();
-            this.btnExit = new System.Windows.Forms.Button();
+            this.lblWelcome = new System.Windows.Forms.Label();
+            this.btnDice = new System.Windows.Forms.Button();
+            this.btnRPS = new System.Windows.Forms.Button();
+            this.btnScore = new System.Windows.Forms.Button();
+            this.btnRanking = new System.Windows.Forms.Button();
+            this.btnWorld = new System.Windows.Forms.Button();
+            this.btnAbout = new System.Windows.Forms.Button();
+            this.btnLogout = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // btnToDice
+            // lblWelcome
             // 
-            this.btnToDice.Font = new System.Drawing.Font("微軟正黑體", 12F);
-            this.btnToDice.Location = new System.Drawing.Point(40, 30);
-            this.btnToDice.Name = "btnToDice";
-            this.btnToDice.Size = new System.Drawing.Size(200, 40);
-            this.btnToDice.TabIndex = 0;
-            this.btnToDice.Text = "骰子比大小";
-            this.btnToDice.UseVisualStyleBackColor = true;
-            this.btnToDice.Click += new System.EventHandler(this.btnToDice_Click);
+            this.lblWelcome.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.lblWelcome.Location = new System.Drawing.Point(20, 20);
+            this.lblWelcome.Name = "lblWelcome";
+            this.lblWelcome.Size = new System.Drawing.Size(400, 30);
+            this.lblWelcome.TabIndex = 0;
+            this.lblWelcome.Text = "歡迎, User";
             // 
-            // btnToRPS
+            // btnDice
             // 
-            this.btnToRPS.Font = new System.Drawing.Font("微軟正黑體", 12F);
-            this.btnToRPS.Location = new System.Drawing.Point(40, 90);
-            this.btnToRPS.Name = "btnToRPS";
-            this.btnToRPS.Size = new System.Drawing.Size(200, 40);
-            this.btnToRPS.TabIndex = 1;
-            this.btnToRPS.Text = "剪刀石頭布";
-            this.btnToRPS.UseVisualStyleBackColor = true;
-            this.btnToRPS.Click += new System.EventHandler(this.btnToRPS_Click);
+            this.btnDice.Font = new System.Drawing.Font("微軟正黑體", 12F);
+            this.btnDice.Location = new System.Drawing.Point(30, 70);
+            this.btnDice.Name = "btnDice";
+            this.btnDice.Size = new System.Drawing.Size(180, 40);
+            this.btnDice.TabIndex = 1;
+            this.btnDice.Text = "骰子比大小";
+            this.btnDice.UseVisualStyleBackColor = true;
+            this.btnDice.Click += new System.EventHandler(this.btnDice_Click);
             // 
-            // btnToScore
+            // btnRPS
             // 
-            this.btnToScore.Font = new System.Drawing.Font("微軟正黑體", 12F);
-            this.btnToScore.Location = new System.Drawing.Point(40, 150);
-            this.btnToScore.Name = "btnToScore";
-            this.btnToScore.Size = new System.Drawing.Size(200, 40);
-            this.btnToScore.TabIndex = 2;
-            this.btnToScore.Text = "分數紀錄";
-            this.btnToScore.UseVisualStyleBackColor = true;
-            this.btnToScore.Click += new System.EventHandler(this.btnToScore_Click);
+            this.btnRPS.Font = new System.Drawing.Font("微軟正黑體", 12F);
+            this.btnRPS.Location = new System.Drawing.Point(240, 70);
+            this.btnRPS.Name = "btnRPS";
+            this.btnRPS.Size = new System.Drawing.Size(180, 40);
+            this.btnRPS.TabIndex = 2;
+            this.btnRPS.Text = "剪刀石頭布";
+            this.btnRPS.UseVisualStyleBackColor = true;
+            this.btnRPS.Click += new System.EventHandler(this.btnRPS_Click);
             // 
-            // btnToAbout
+            // btnScore
             // 
-            this.btnToAbout.Font = new System.Drawing.Font("微軟正黑體", 12F);
-            this.btnToAbout.Location = new System.Drawing.Point(40, 210);
-            this.btnToAbout.Name = "btnToAbout";
-            this.btnToAbout.Size = new System.Drawing.Size(200, 40);
-            this.btnToAbout.TabIndex = 3;
-            this.btnToAbout.Text = "說　　明";
-            this.btnToAbout.UseVisualStyleBackColor = true;
-            this.btnToAbout.Click += new System.EventHandler(this.btnToAbout_Click);
+            this.btnScore.Font = new System.Drawing.Font("微軟正黑體", 12F);
+            this.btnScore.Location = new System.Drawing.Point(30, 130);
+            this.btnScore.Name = "btnScore";
+            this.btnScore.Size = new System.Drawing.Size(180, 40);
+            this.btnScore.TabIndex = 3;
+            this.btnScore.Text = "本機分數紀錄";
+            this.btnScore.UseVisualStyleBackColor = true;
+            this.btnScore.Click += new System.EventHandler(this.btnScore_Click);
             // 
-            // btnExit
+            // btnRanking
             // 
-            this.btnExit.Font = new System.Drawing.Font("微軟正黑體", 12F);
-            this.btnExit.Location = new System.Drawing.Point(40, 270);
-            this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(200, 40);
-            this.btnExit.TabIndex = 4;
-            this.btnExit.Text = "離　　開";
-            this.btnExit.UseVisualStyleBackColor = true;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            this.btnRanking.Font = new System.Drawing.Font("微軟正黑體", 12F);
+            this.btnRanking.Location = new System.Drawing.Point(240, 130);
+            this.btnRanking.Name = "btnRanking";
+            this.btnRanking.Size = new System.Drawing.Size(180, 40);
+            this.btnRanking.TabIndex = 4;
+            this.btnRanking.Text = "單機排行榜";
+            this.btnRanking.UseVisualStyleBackColor = true;
+            this.btnRanking.Click += new System.EventHandler(this.btnRanking_Click);
+            // 
+            // btnWorld
+            // 
+            this.btnWorld.Font = new System.Drawing.Font("微軟正黑體", 12F);
+            this.btnWorld.Location = new System.Drawing.Point(30, 190);
+            this.btnWorld.Name = "btnWorld";
+            this.btnWorld.Size = new System.Drawing.Size(180, 40);
+            this.btnWorld.TabIndex = 5;
+            this.btnWorld.Text = "世界排行榜";
+            this.btnWorld.UseVisualStyleBackColor = true;
+            this.btnWorld.Click += new System.EventHandler(this.btnWorld_Click);
+            // 
+            // btnAbout
+            // 
+            this.btnAbout.Font = new System.Drawing.Font("微軟正黑體", 12F);
+            this.btnAbout.Location = new System.Drawing.Point(240, 190);
+            this.btnAbout.Name = "btnAbout";
+            this.btnAbout.Size = new System.Drawing.Size(180, 40);
+            this.btnAbout.TabIndex = 6;
+            this.btnAbout.Text = "說明";
+            this.btnAbout.UseVisualStyleBackColor = true;
+            this.btnAbout.Click += new System.EventHandler(this.btnAbout_Click);
+            // 
+            // btnLogout
+            // 
+            this.btnLogout.Font = new System.Drawing.Font("微軟正黑體", 12F);
+            this.btnLogout.Location = new System.Drawing.Point(140, 250);
+            this.btnLogout.Name = "btnLogout";
+            this.btnLogout.Size = new System.Drawing.Size(180, 40);
+            this.btnLogout.TabIndex = 7;
+            this.btnLogout.Text = "登出";
+            this.btnLogout.UseVisualStyleBackColor = true;
+            this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
             // 
             // MainForm
             // 
-            this.ClientSize = new System.Drawing.Size(280, 350);
-            this.Controls.Add(this.btnExit);
-            this.Controls.Add(this.btnToAbout);
-            this.Controls.Add(this.btnToScore);
-            this.Controls.Add(this.btnToRPS);
-            this.Controls.Add(this.btnToDice);
+            this.ClientSize = new System.Drawing.Size(450, 320);
+            this.Controls.Add(this.btnLogout);
+            this.Controls.Add(this.btnAbout);
+            this.Controls.Add(this.btnWorld);
+            this.Controls.Add(this.btnRanking);
+            this.Controls.Add(this.btnScore);
+            this.Controls.Add(this.btnRPS);
+            this.Controls.Add(this.btnDice);
+            this.Controls.Add(this.lblWelcome);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
             this.Name = "MainForm";
-            this.Text = "遊戲主選單";
+            this.Text = "主選單";
             this.ResumeLayout(false);
+
         }
 
         #endregion
 
-        private System.Windows.Forms.Button btnToDice;
-        private System.Windows.Forms.Button btnToRPS;
-        private System.Windows.Forms.Button btnToScore;
-        private System.Windows.Forms.Button btnToAbout;
-        private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Label lblWelcome;
+        private System.Windows.Forms.Button btnDice;
+        private System.Windows.Forms.Button btnRPS;
+        private System.Windows.Forms.Button btnScore;
+        private System.Windows.Forms.Button btnRanking;
+        private System.Windows.Forms.Button btnWorld;
+        private System.Windows.Forms.Button btnAbout;
+        private System.Windows.Forms.Button btnLogout;
     }
 }
-

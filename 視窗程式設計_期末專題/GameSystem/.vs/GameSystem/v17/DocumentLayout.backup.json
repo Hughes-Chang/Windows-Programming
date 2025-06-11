@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hugh\\source\\repos\\GameSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\d5f2c\\Desktop\\GameSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{560A346C-7004-42CF-B773-706F9F51D53C}|GameSystem\\GameSystem.csproj|c:\\users\\d5f2c\\desktop\\gamesystem\\gamesystem\\user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560A346C-7004-42CF-B773-706F9F51D53C}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\user2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{560A346C-7004-42CF-B773-706F9F51D53C}|GameSystem\\GameSystem.csproj|C:\\Users\\d5f2c\\Desktop\\GameSystem\\gamesystem\\gamedata2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560A346C-7004-42CF-B773-706F9F51D53C}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\gamedata2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\dicegameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\dicegameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{560A346C-7004-42CF-B773-706F9F51D53C}|GameSystem\\GameSystem.csproj|C:\\Users\\d5f2c\\Desktop\\GameSystem\\gamesystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560A346C-7004-42CF-B773-706F9F51D53C}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\rpsgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\rpsgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\scoreform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|c:\\users\\hugh\\source\\repos\\gamesystem\\gamesystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEBCEAEB-2508-4E69-9940-D54046941AC7}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{560A346C-7004-42CF-B773-706F9F51D53C}|GameSystem\\GameSystem.csproj|C:\\Users\\d5f2c\\Desktop\\GameSystem\\gamesystem\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560A346C-7004-42CF-B773-706F9F51D53C}|GameSystem\\GameSystem.csproj|solutionrelative:gamesystem\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,76 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AboutForm.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\AboutForm.cs",
-              "RelativeDocumentMoniker": "GameSystem\\AboutForm.cs",
-              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\AboutForm.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "GameSystem\\AboutForm.cs [\u8A2D\u8A08]",
+              "Title": "User2.cs",
+              "DocumentMoniker": "C:\\Users\\d5f2c\\Desktop\\GameSystem\\GameSystem\\User2.cs",
+              "RelativeDocumentMoniker": "GameSystem\\User2.cs",
+              "ToolTip": "C:\\Users\\d5f2c\\Desktop\\GameSystem\\GameSystem\\User2.cs",
+              "RelativeToolTip": "GameSystem\\User2.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA/wBcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:23:54.245Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\Program.cs",
-              "RelativeDocumentMoniker": "GameSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\Program.cs",
-              "RelativeToolTip": "GameSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:23:09.345Z",
+              "WhenOpened": "2025-06-11T08:44:00.493Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ScoreForm.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\ScoreForm.cs",
-              "RelativeDocumentMoniker": "GameSystem\\ScoreForm.cs",
-              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\ScoreForm.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "GameSystem\\ScoreForm.cs [\u8A2D\u8A08]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:20:12.753Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RPSGameForm.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\RPSGameForm.cs",
-              "RelativeDocumentMoniker": "GameSystem\\RPSGameForm.cs",
-              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\RPSGameForm.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "GameSystem\\RPSGameForm.cs [\u8A2D\u8A08]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:20:07.365Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DiceGameForm.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\DiceGameForm.cs",
-              "RelativeDocumentMoniker": "GameSystem\\DiceGameForm.cs",
-              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\DiceGameForm.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "GameSystem\\DiceGameForm.cs [\u8A2D\u8A08]",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\d5f2c\\Desktop\\GameSystem\\GameSystem\\User.cs",
+              "RelativeDocumentMoniker": "GameSystem\\User.cs",
+              "ToolTip": "C:\\Users\\d5f2c\\Desktop\\GameSystem\\GameSystem\\User.cs",
+              "RelativeToolTip": "GameSystem\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:19:57.116Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
+              "WhenOpened": "2025-06-11T08:42:47.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "GameSystem\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\hugh\\source\\repos\\GameSystem\\GameSystem\\MainForm.Designer.cs",
-              "RelativeToolTip": "GameSystem\\MainForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GameData2.cs",
+              "DocumentMoniker": "C:\\Users\\d5f2c\\Desktop\\GameSystem\\GameSystem\\GameData2.cs",
+              "RelativeDocumentMoniker": "GameSystem\\GameData2.cs",
+              "ToolTip": "C:\\Users\\d5f2c\\Desktop\\GameSystem\\GameSystem\\GameData2.cs",
+              "RelativeToolTip": "GameSystem\\GameData2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T12:17:04.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T08:39:55.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\d5f2c\\Desktop\\GameSystem\\GameSystem\\GameData.cs",
+              "RelativeDocumentMoniker": "GameSystem\\GameData.cs",
+              "ToolTip": "C:\\Users\\d5f2c\\Desktop\\GameSystem\\GameSystem\\GameData.cs",
+              "RelativeToolTip": "GameSystem\\GameData.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:10:02.848Z"
             }
           ]
         }

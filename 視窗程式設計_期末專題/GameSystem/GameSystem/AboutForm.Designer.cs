@@ -3,7 +3,6 @@
     partial class AboutForm
     {
         private System.ComponentModel.IContainer components = null;
-
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -16,33 +15,33 @@
         private void InitializeComponent()
         {
             this.lblInfo = new System.Windows.Forms.Label();
-            this.btnBackToMenu = new System.Windows.Forms.Button();
+            this.btnBack = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblInfo
             // 
-            this.lblInfo.Font = new System.Drawing.Font("微軟正黑體", 10F);
+            this.lblInfo.Font = new System.Drawing.Font("微軟正黑體", 11F);
             this.lblInfo.Location = new System.Drawing.Point(20, 20);
             this.lblInfo.Name = "lblInfo";
-            this.lblInfo.Size = new System.Drawing.Size(360, 200);
+            this.lblInfo.Size = new System.Drawing.Size(380, 260);
             this.lblInfo.TabIndex = 0;
-            this.lblInfo.Text = "骰子比大小與剪刀石頭布遊戲系統\r\n\r\n版本：1.0\r\n作者：張旭鋒、吳怡萱\r\n\r\n說明：\r\n1. 選擇骰子遊戲可以進行擲骰子比大小。\r\n2. 選擇剪刀石頭布可以與電腦對戰。\r\n3. 每局結果都會記錄在「分數紀錄」裡。\r\n4. 可隨時清除紀錄或返回主選單。";
+            this.lblInfo.Text = "骰子與剪刀石頭布遊戲系統說明：\r\n\r\n- 會員可註冊、登入\r\n- 登入後即可進行骰子與剪刀石頭布遊戲\r\n- 遊戲結果會儲存於本機與會員資料中\r\n- 可查看本機分數紀錄、單機排行榜\r\n- 可上傳至世界排行榜 (需有網路連結)\r\n\r\n作者：張旭鋒、吳怡萱\r\n版本：1.0";
             // 
-            // btnBackToMenu
+            // btnBack
             // 
-            this.btnBackToMenu.Font = new System.Drawing.Font("微軟正黑體", 10F);
-            this.btnBackToMenu.Location = new System.Drawing.Point(280, 260);
-            this.btnBackToMenu.Name = "btnBackToMenu";
-            this.btnBackToMenu.Size = new System.Drawing.Size(100, 30);
-            this.btnBackToMenu.TabIndex = 1;
-            this.btnBackToMenu.Text = "返回主選單";
-            this.btnBackToMenu.UseVisualStyleBackColor = true;
-            this.btnBackToMenu.Click += new System.EventHandler(this.btnBackToMenu_Click);
+            this.btnBack.Font = new System.Drawing.Font("微軟正黑體", 10F);
+            this.btnBack.Location = new System.Drawing.Point(300, 300);
+            this.btnBack.Name = "btnBack";
+            this.btnBack.Size = new System.Drawing.Size(100, 35);
+            this.btnBack.TabIndex = 1;
+            this.btnBack.Text = "返回主選單";
+            this.btnBack.UseVisualStyleBackColor = true;
+            this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
             // AboutForm
             // 
-            this.ClientSize = new System.Drawing.Size(400, 320);
-            this.Controls.Add(this.btnBackToMenu);
+            this.ClientSize = new System.Drawing.Size(420, 360);
+            this.Controls.Add(this.btnBack);
             this.Controls.Add(this.lblInfo);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.MaximizeBox = false;
@@ -54,6 +53,6 @@
         #endregion
 
         private System.Windows.Forms.Label lblInfo;
-        private System.Windows.Forms.Button btnBackToMenu;
+        private System.Windows.Forms.Button btnBack;
     }
 }

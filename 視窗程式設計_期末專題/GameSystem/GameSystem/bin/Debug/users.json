@@ -1,0 +1,23 @@
+[
+  {
+    "Username": "123",
+    "PasswordHash": "pmWkWSBCL51Bfkhn79xPuKBKHz//H6B+mY6G9/eieuM=",
+    "Wins": 11,
+    "Losses": 5,
+    "Score": 6
+  },
+  {
+    "Username": "456",
+    "PasswordHash": "s6jg4fmrG/46NvIx9nb3i7MKUZ0rIebFMMDu6Ou0pdA=",
+    "Wins": 3,
+    "Losses": 4,
+    "Score": -1
+  },
+  {
+    "Username": "789",
+    "PasswordHash": "NanjgbGidWdUm1+Kb3g8Fn6/gJ8cTWqeNnJASE2M4oE=",
+    "Wins": 0,
+    "Losses": 1,
+    "Score": -1
+  }
+]
